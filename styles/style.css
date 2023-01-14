@@ -121,6 +121,7 @@ body {
 .feature-info-title {
   font-size: 3.8rem;
   line-height: 30px;
+  margin-bottom: 35px;
 }
 .feature-info-title .color-1 {
   color: var(--light-gray);
